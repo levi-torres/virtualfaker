@@ -77,7 +77,7 @@
 			</executions>
 		</plugin>
 		</plugins>
-		<finalName>VIRTUALFAKER</finalName>
+		<finalName>virtualfake</finalName>
 	</build>
 
 </project>
