@@ -28,6 +28,9 @@
 	</scm>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.organization>levi-torres</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.projectKey>levi-torres_virtualfaker</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>

@@ -39,7 +39,7 @@ class VirtualfakerApplicationTests {
 
 	@Test
 	void testRandomCurrenciesCodeFormat(){
-		DataController dataController = new DataController();
+		dataController = new DataController();
 		JsonNode response = dataController.getRandomCurrencies();
 		for (int i = 0; i < response.size(); i++) {
 			JsonNode currency = response.get(i);
@@ -50,7 +50,7 @@ class VirtualfakerApplicationTests {
 
 	@Test
 	void testRandomNationsPerformance(){
-		DataController dataController = new DataController();
+		dataController = new DataController();
 		long startTime = System.currentTimeMillis();
 		dataController.nations();
 		long endTime = System.currentTimeMillis();
