@@ -1,4 +1,8 @@
 [![CI/CD Pipeline](https://github.com/levi-torres/virtualfaker/actions/workflows/build.yml/badge.svg)](https://github.com/levi-torres/virtualfaker/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=levi-torres_virtualfaker&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=levi-torres_virtualfaker)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=levi-torres_virtualfaker)](https://sonarcloud.io/summary/new_code?id=levi-torres_virtualfaker)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=levi-torres_virtualfaker&metric=bugs)](https://sonarcloud.io/summary/new_code?id=levi-torres_virtualfaker)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=levi-torres_virtualfaker&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=levi-torres_virtualfaker)
 # virtualfaker
 
 Implementation of a Simple App with the next operations:
